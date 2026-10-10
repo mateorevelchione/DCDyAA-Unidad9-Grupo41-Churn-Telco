@@ -1,0 +1,21 @@
+,valor
+modelo_elegido,Regresión logística
+empatados_en_cv,"Regresión logística, Naive Bayes, Random Forest, XGBoost"
+cv_ROC_AUC,0.8456
+cv_PR_AUC,0.6591
+cv_Recall@20,0.5057
+test_ROC_AUC,0.842
+test_PR_AUC,0.6338
+test_Recall@20,0.4973
+test_Recall@20_IC95,0.462 - 0.547
+test_Precision@20,0.6596
+test_Lift@20,2.485
+regla_Recall@20,0.4465
+aleatorio_Recall@20,0.2
+pct_ingreso_en_riesgo_capturado,0.5428
+brier_test,0.1381
+meta_recall@20>=40%,True
+"meta_ROC_AUC>=0,80",True
+beneficio_neto_modelo_cada_1000,28452.0
+beneficio_vs_aleatorio_cada_1000,19866.0
+tasa_retencion_equilibrio,0.0239

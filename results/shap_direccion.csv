@@ -1,0 +1,19 @@
+variable,valor,shap_medio,clientes
+tenure,"a mayor valor, baja el score",,1409
+InternetService,DSL,-0.67,484
+InternetService,Fiber optic,0.654,613
+InternetService,No,-0.268,312
+MonthlyCharges,"a mayor valor, baja el score",,1409
+Contract,Month-to-month,0.471,773
+Contract,One year,-0.223,300
+Contract,Two year,-0.884,336
+TotalCharges,"a mayor valor, sube el score",,1409
+OnlineSecurity,No,0.226,701
+OnlineSecurity,No internet service,-0.249,312
+OnlineSecurity,Yes,-0.203,396
+TechSupport,No,0.205,702
+TechSupport,No internet service,-0.241,312
+TechSupport,Yes,-0.167,395
+MultipleLines,No,-0.179,705
+MultipleLines,No phone service,-0.048,123
+MultipleLines,Yes,0.212,581

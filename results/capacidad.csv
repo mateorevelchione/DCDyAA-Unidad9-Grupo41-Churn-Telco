@@ -1,0 +1,8 @@
+,recall,recall,precision,precision,lift,lift
+modelo,Regla de negocio,Regresión logística,Regla de negocio,Regresión logística,Regla de negocio,Regresión logística
+cupo,,,,,,
+10%,0.246,0.283,0.652,0.752,2.458,2.832
+20%,0.447,0.497,0.592,0.66,2.231,2.485
+30%,0.602,0.65,0.532,0.574,2.004,2.164
+40%,0.717,0.778,0.475,0.516,1.79,1.944
+50%,0.845,0.872,0.448,0.462,1.689,1.742

@@ -1,0 +1,49 @@
+variable,coeficiente,odds_ratio
+cat__InternetService_Fiber optic,0.6434,1.9029
+cat__Contract_Month-to-month,0.5779,1.7822
+num__TotalCharges,0.5247,1.69
+cat__OnlineSecurity_No,0.1961,1.2167
+num__n_servicios_adicionales,0.1929,1.2127
+cat__TechSupport_No,0.1673,1.1821
+cat__StreamingTV_Yes,0.1461,1.1573
+cat__StreamingMovies_Yes,0.1446,1.1556
+cat__MultipleLines_Yes,0.1116,1.118
+cat__PaymentMethod_Electronic check,0.0904,1.0946
+cat__OnlineBackup_No,0.0686,1.071
+num__SeniorCitizen,0.0544,1.0559
+cat__PaperlessBilling_Yes,0.0282,1.0286
+cat__DeviceProtection_No,0.0032,1.0032
+num__variacion_cargo,-0.0129,0.9872
+cat__DeviceProtection_Yes,-0.0402,0.9606
+cat__Dependents_No,-0.0471,0.954
+cat__PaymentMethod_Bank transfer (automatic),-0.0801,0.923
+cat__OnlineBackup_Yes,-0.1056,0.8998
+num__pago_automatico,-0.1061,0.8993
+cat__PaymentMethod_Credit card (automatic),-0.1102,0.8956
+cat__Contract_One year,-0.1166,0.89
+cat__gender_Male,-0.147,0.8633
+cat__MultipleLines_No phone service,-0.1481,0.8623
+cat__PhoneService_No,-0.1481,0.8623
+cat__Partner_Yes,-0.1482,0.8623
+cat__Partner_No,-0.1677,0.8456
+cat__PhoneService_Yes,-0.1678,0.8456
+cat__gender_Female,-0.1689,0.8446
+cat__StreamingMovies_No,-0.1816,0.8339
+cat__StreamingTV_No,-0.1831,0.8327
+cat__TechSupport_Yes,-0.2043,0.8152
+cat__PaymentMethod_Mailed check,-0.2159,0.8058
+cat__OnlineSecurity_Yes,-0.2331,0.7921
+cat__Dependents_Yes,-0.2688,0.7643
+cat__OnlineBackup_No internet service,-0.2789,0.7566
+cat__StreamingMovies_No internet service,-0.2789,0.7566
+cat__TechSupport_No internet service,-0.2789,0.7566
+cat__OnlineSecurity_No internet service,-0.2789,0.7566
+cat__InternetService_No,-0.2789,0.7566
+cat__StreamingTV_No internet service,-0.2789,0.7566
+cat__DeviceProtection_No internet service,-0.2789,0.7566
+cat__MultipleLines_No,-0.2793,0.7563
+cat__PaperlessBilling_No,-0.3441,0.7089
+num__MonthlyCharges,-0.6343,0.5303
+cat__InternetService_DSL,-0.6804,0.5064
+cat__Contract_Two year,-0.7772,0.4597
+num__tenure,-1.2488,0.2868

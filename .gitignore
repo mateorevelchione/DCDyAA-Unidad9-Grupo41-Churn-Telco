@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+~$*
+# El dataset se descarga desde el repositorio de IBM al ejecutar el notebook
+data/*.csv
+!data/particion_curso.csv

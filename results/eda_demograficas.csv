@@ -1,0 +1,9 @@
+,,clientes,tasa_churn
+gender,Female,3488,0.2692
+gender,Male,3555,0.2616
+SeniorCitizen,0,5901,0.2361
+SeniorCitizen,1,1142,0.4168
+Partner,No,3641,0.3296
+Partner,Yes,3402,0.1966
+Dependents,No,4933,0.3128
+Dependents,Yes,2110,0.1545

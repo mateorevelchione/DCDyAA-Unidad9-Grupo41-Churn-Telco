@@ -1,0 +1,9 @@
+,estimacion_test,IC95_inf,IC95_sup,prob_dif_<=0
+Recall@20_modelo,0.4973,0.4615,0.5466,
+Recall@20_regla,0.4465,0.409,0.4877,
+dif_Recall@20,0.0508,0.0098,0.1019,0.01
+Precision@20_modelo,0.6596,0.6064,0.7199,
+PR_AUC_modelo,0.6338,0.5793,0.6829,
+ROC_AUC_modelo,0.842,0.8191,0.8626,
+dif_Recall@20_XGB-elegido,0.0107,-0.0188,0.0359,0.299
+dif_PR_AUC_XGB-elegido,0.0264,0.0023,0.0502,0.012

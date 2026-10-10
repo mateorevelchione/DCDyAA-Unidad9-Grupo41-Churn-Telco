@@ -1,0 +1,3 @@
+,PR_AUC,ROC_AUC,Recall@20,Precision@20,Brier
+Sin ponderar,0.6591,0.8456,0.5057,0.669,0.1353
+class_weight='balanced',0.658,0.8454,0.503,0.6655,0.1655

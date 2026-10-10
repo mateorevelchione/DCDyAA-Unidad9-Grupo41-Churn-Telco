@@ -1,0 +1,10 @@
+variable,valor_cliente,contribucion
+tenure,4,1.448
+InternetService,Fiber optic,0.6539
+Contract,Month-to-month,0.4714
+TotalCharges,299.2,-0.4605
+MonthlyCharges,77.85,-0.2719
+OnlineSecurity,No,0.226
+StreamingTV,Yes,0.2217
+PaperlessBilling,No,-0.2201
+resto de variables,,0.2917

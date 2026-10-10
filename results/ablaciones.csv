@@ -1,0 +1,6 @@
+escenario,PR_AUC,Recall@20,ROC_AUC,delta_PR_AUC_pp,delta_Recall@20_pp
+Modelo completo,0.6591,0.5057,0.8456,0.0,0.0
+H1 - sin contrato ni antigüedad,0.5857,0.4669,0.8086,-7.3426,-3.8796
+H2 - sin servicios adicionales,0.6512,0.5043,0.8423,-0.7932,-0.1338
+H3 - sin tipo de internet ni pago,0.639,0.4903,0.837,-2.0113,-1.5385
+H4 - sin demográficas,0.6578,0.5077,0.8455,-0.1282,0.2007

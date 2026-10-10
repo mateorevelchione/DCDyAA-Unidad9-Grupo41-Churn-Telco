@@ -1,0 +1,4 @@
+variable,min,q1,mediana,q3,max,limite_inf,limite_sup,outliers_iqr
+tenure,0.0,9.0,29.0,55.0,72.0,-60.0,124.0,0
+MonthlyCharges,18.25,35.5,70.35,89.85,118.75,-46.02,171.38,0
+TotalCharges,18.8,401.45,1397.48,3794.74,8684.8,-4688.48,8884.67,0

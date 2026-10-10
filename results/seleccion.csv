@@ -1,0 +1,6 @@
+,ROC_AUC_CV,"elegible_ROC>=0,80",Recall@20_CV,desvio,empatado_con_el_mejor
+Regresión logística,0.846,True,0.506,0.017,True
+kNN (k=15),0.819,True,0.476,0.009,False
+Naive Bayes,0.82,True,0.488,0.016,True
+Random Forest,0.844,True,0.502,0.026,True
+XGBoost,0.844,True,0.507,0.021,True

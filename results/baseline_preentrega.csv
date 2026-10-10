@@ -1,0 +1,5 @@
+,valor
+ROC_AUC_validacion,0.8481
+ROC_AUC_CV5,0.8452
+reportado_pre_entrega_validacion,0.848
+reportado_pre_entrega_CV5,0.845

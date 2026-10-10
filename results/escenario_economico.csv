@@ -1,0 +1,5 @@
+estrategia,contactados,ingreso_mensual_capturado,valor_retenido,costo_campania,beneficio_neto,beneficio_neto_cada_1000,vs_aleatorio,pct_ingreso_en_riesgo_capturado
+Contacto aleatorio (esperado),282,5442.98,16328.94,4230.0,12098.94,8586.899,0.0,0.2
+Regla de negocio,282,10407.05,31221.15,4230.0,26991.15,19156.246,14892.21,0.382
+Regresión logística,282,14773.15,44319.45,4230.0,40089.45,28452.413,27990.51,0.543
+Regresión logística sin atributos sensibles,282,14792.2,44376.6,4230.0,40146.6,28492.974,28047.66,0.544
